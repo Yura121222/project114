@@ -13,7 +13,7 @@ Create Bottom Tab navigation with 3 tabs: Words, Learning, and Settings as shown
 Use names of screens the same as names of corresponding tabs  
 Use component WordsNavigation for Words tab  
 Use component LearningNavigation for the Navigation tab  
-Use screen component Settings for the Settings tab  
+Use screen component Settings for the Settings tab  .
   
 WordsNavigation and LearningNavigation should implement child navigations, see the description below.  
 
